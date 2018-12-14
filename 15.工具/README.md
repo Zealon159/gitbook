@@ -1,5 +1,15 @@
 # Summary
 
+## Chrome插件
+
+- Momentum：装逼利器，教你如何优雅的使用Chrome，每天一副精美图片 。
+- Octotree ：这个可就屌了，浏览Github，侧边栏向打开文件夹一样的查看别人的项目。 
+- JSONView： 自动跟你排列出Json数据，简直开发者必备。
+- Postman：可以直接发送一个请求，自定义params、header，查看response状态等 。
+- Alexa Traffic Rank： Alexa排名是指网站的世界排名，非常有权威。
+- Page Ruler： 设计师必备，可以直接查看网页一些图片的详细像素大小、具体位置等，非常实用。 
+- OneTab： 使用Chrome经常会一次打开好多tab，很多是会用到的，又不舍得关 ，这个时候点击下OneTab，直接把所有tab回收，然后每天的历史都给你记录着，接着你可以一键还原某一天的tab。
+
 ## 团队协作
 
 - [Teambition](https://www.teambition.com/)：团队协作工具创导者
@@ -9,7 +19,7 @@
 ## 远程
 
 - [TeamViewer](https://www.teamviewer.com/zhCN/)：安全远程访问和支持 TeamViewer 基于最广泛的平台和技术，连接全世界的人、地区和事物。
-- Anydesk：支持跨系统远程桌面哦~
+- [Anydesk](www.anydesk.com/)：支持跨系统远程桌面哦~
 
 ## 原型设计
 
@@ -35,7 +45,7 @@
 ## Markdown / 书写 / 阅读
 
 - [Markdown——简单的世界](01.Markdown.md)
-- [Typora](https://typora.io/) - 极致简洁、实时预览
+- [Typora](https://typora.io/) - 极致简洁、实时预览（我在用）
 - [Ulysses](https://ulyssesapp.com/) - 专业文本编辑工具，支持 Markdown
 - [Skim](https://sourceforge.net/projects/skim-app/) - PDF阅读器
 - [印象笔记](https://www.yinxiang.com/)：工作必备效率应用
@@ -78,6 +88,7 @@
 ## 虚拟机
 
 - [Parallels Desktop](http://www.parallels.com/)
+- [VirtualBox](https://www.virtualbox.org/)
 
 ## Mac系统工具
 
@@ -102,6 +113,7 @@
 ## 科学上网
 
 - [Shadowsocks](https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9)
+- [baacloud](https://www.baidu.com/s?ie=UTF-8&wd=baacloud)
 
 ## 黑科技
 
